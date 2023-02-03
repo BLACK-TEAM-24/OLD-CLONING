@@ -1,8 +1,10 @@
 # OLD-CLONING
 
+Faucets ⬇️:
 
+ID CLONING 
 
-#
+# installation ⬇️:
 
 pkg update
 
@@ -26,7 +28,7 @@ cd OLD-CLONING
 
 python BLACK-old-id.py
 
-
+# Follow my Facebook pages ⬇️
 
 
 
