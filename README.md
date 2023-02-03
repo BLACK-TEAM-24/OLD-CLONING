@@ -2,6 +2,7 @@
 
 
 
+#
 
 pkg update
 
@@ -23,7 +24,7 @@ git clone https://github.com/BLACK-TEAM-24/OLD-CLONING.git
 
 cd OLD-CLONING
 
-python 
+python BLACK-old-id.py
 
 
 
